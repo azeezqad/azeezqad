@@ -1,5 +1,5 @@
 <img src="cover.jpg" alt="Vishnu Sivan" width="100%" />
-<h1 align="center">Hi 👋, I'm Aziz</h1>
+<h1 align="center">Hi 👋, I'm Abdulaziz</h1>
 <h3 align="center">A junior frontend developer.</h3>
 
 - 🌱 I’m currently learning **Vue, Nuxt, Node.js**
